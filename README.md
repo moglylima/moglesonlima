@@ -1,17 +1,17 @@
 # Hi 👋, I'm Mogleson Lima
 ## About Me
 - 📚 **Bachelor's in Information Systems** (in progress) at Federal University of Ceará
-- 💻 **Full Stack Developer** with 3+ years of experience
+- 💻 **Full Stack Developer** with 4+ years of experience
 - 💭 Passionate about software engineering and DevOps
   
 ## Technical Skills
 
 **Languages:** JavaScript/TypeScript, HTML, CSS, Java, Python  
 **Frameworks:** React.js, Node.js, Spring Boot  
-**Databases:** MongoDB, PostgreSQL, MySQL, SQLite  
-**Tools:** Git, Docker, Kubernetes, Terraform  
+**Databases:** MongoDB, PostgreSQL, MySQL, SQLite, MariaDB
+**Tools:** Git, Docker, Kubernetes, Terraform, Ansible, DataDog, Promtheus, Grafana 
 **Testing:** Jest, Selenium, JUnit, Cucumber
-**Cloud:** AWS, Digital Ocean
+**Cloud:** AWS, Digital Ocean, Azure
 
 
 ## Connect with Me
